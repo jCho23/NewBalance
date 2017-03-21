@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{01D32AC3-F82E-4E89-9350-CEEC747D4531}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewBalance/Tests.cs">
+    <Files>
+      <File FileName="NewBalance/AppInitializer.cs" Line="31" Column="18" />
+      <File FileName="NewBalance/Tests.cs" Line="34" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NewBalance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
